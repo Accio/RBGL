@@ -1,0 +1,8 @@
+src/*.o
+src/*.so
+src/*.rds
+src/Makevars
+
+*.log
+*.status
+
